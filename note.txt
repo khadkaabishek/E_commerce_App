@@ -1,7 +1,6 @@
 🌟 Day 104 of Learning 🌟
 Today, I implemented OAuth 2.0, a widely used method that eases authentication and authorization — powering those familiar "Login with Google" buttons you see everywhere. 🔐🌐✨
 
-
 🎯 What I worked on:
 1. Understood the OAuth 2.0 flow and wrote code for both backend and frontend integration.
 2. Integrated OAuth 2.0 into my project successfully.
