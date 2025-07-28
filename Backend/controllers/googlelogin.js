@@ -7,7 +7,7 @@ const User = require("../models/user");
 const googleLogin = async (req, res) => {
   try {
     const { code } = req.query;
-    // console.log("code", code);
+    // console.log("code", code);does it works
     // Exchange code for tokens
     const { tokens } = await oauuth2client.getToken(code);
     // console.log("token", tokens);
