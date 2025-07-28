@@ -1,4 +1,4 @@
-🌟 Day 58 of Learning 🌟
+🌟 Day 104 of Learning 🌟
 Today, I implemented OAuth 2.0, a widely used method that eases authentication and authorization — powering those familiar "Login with Google" buttons you see everywhere. 🔐🌐✨
 
 
